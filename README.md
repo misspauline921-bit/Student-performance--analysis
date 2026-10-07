@@ -8,14 +8,14 @@ These factors include:
  - Absences
  - First-period grade(G1)
  - Second-period grade(G2)
-##Objectives
+## Objectives
 - Explore the distribution of the students' final grades.
 - Analyze the relationship between study time and final grade.
 - Investigate the relationship between previous failures and final grades.
 - Examine the relationship between absences and final grades.
 - Explore the correlation between the students' grades.
 - Use visualizations to communicate findings clearly.
-##Tools
+## Tools
 - Python
 - Pandas
 - Matplotlib
